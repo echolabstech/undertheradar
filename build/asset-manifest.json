@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/undertheradar/static/js/main.c81819d0.chunk.js",
+    "main.js.map": "/undertheradar/static/js/main.c81819d0.chunk.js.map",
+    "runtime-main.js": "/undertheradar/static/js/runtime-main.d8c4e76a.js",
+    "runtime-main.js.map": "/undertheradar/static/js/runtime-main.d8c4e76a.js.map",
+    "static/css/2.ea147ff5.chunk.css": "/undertheradar/static/css/2.ea147ff5.chunk.css",
+    "static/js/2.9b63f56d.chunk.js": "/undertheradar/static/js/2.9b63f56d.chunk.js",
+    "static/js/2.9b63f56d.chunk.js.map": "/undertheradar/static/js/2.9b63f56d.chunk.js.map",
+    "index.html": "/undertheradar/index.html",
+    "static/css/2.ea147ff5.chunk.css.map": "/undertheradar/static/css/2.ea147ff5.chunk.css.map",
+    "static/js/2.9b63f56d.chunk.js.LICENSE.txt": "/undertheradar/static/js/2.9b63f56d.chunk.js.LICENSE.txt",
+    "static/media/activate.e3552724.png": "/undertheradar/static/media/activate.e3552724.png",
+    "static/media/index.css": "/undertheradar/static/media/montserrat-vietnamese-400-normal.6325549b.woff2",
+    "static/media/done.6e54f346.png": "/undertheradar/static/media/done.6e54f346.png",
+    "static/media/select.e5f2ee50.png": "/undertheradar/static/media/select.e5f2ee50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8c4e76a.js",
+    "static/css/2.ea147ff5.chunk.css",
+    "static/js/2.9b63f56d.chunk.js",
+    "static/js/main.c81819d0.chunk.js"
+  ]
+}
