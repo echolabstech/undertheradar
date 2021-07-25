@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/VPN/static/js/main.b155eedd.chunk.js",
-    "main.js.map": "/VPN/static/js/main.b155eedd.chunk.js.map",
-    "runtime-main.js": "/VPN/static/js/runtime-main.681110f4.js",
-    "runtime-main.js.map": "/VPN/static/js/runtime-main.681110f4.js.map",
-    "static/css/2.b28340f1.chunk.css": "/VPN/static/css/2.b28340f1.chunk.css",
-    "static/js/2.b37227a0.chunk.js": "/VPN/static/js/2.b37227a0.chunk.js",
-    "static/js/2.b37227a0.chunk.js.map": "/VPN/static/js/2.b37227a0.chunk.js.map",
-    "index.html": "/VPN/index.html",
-    "static/css/2.b28340f1.chunk.css.map": "/VPN/static/css/2.b28340f1.chunk.css.map",
-    "static/js/2.b37227a0.chunk.js.LICENSE.txt": "/VPN/static/js/2.b37227a0.chunk.js.LICENSE.txt",
-    "static/media/activate.e3552724.png": "/VPN/static/media/activate.e3552724.png",
-    "static/media/alipay_payment_qrcode_anonymized.48c12fe9.png": "/VPN/static/media/alipay_payment_qrcode_anonymized.48c12fe9.png",
-    "static/media/index.css": "/VPN/static/media/montserrat-vietnamese-400-normal.6325549b.woff2",
-    "static/media/done.6e54f346.png": "/VPN/static/media/done.6e54f346.png",
-    "static/media/select.e5f2ee50.png": "/VPN/static/media/select.e5f2ee50.png",
-    "static/media/wechat_payment_qrcode_anonymized.98158d20.png": "/VPN/static/media/wechat_payment_qrcode_anonymized.98158d20.png"
+    "main.js": "/static/js/main.b155eedd.chunk.js",
+    "main.js.map": "/static/js/main.b155eedd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98bb84ba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98bb84ba.js.map",
+    "static/css/2.d4a0a2ca.chunk.css": "/static/css/2.d4a0a2ca.chunk.css",
+    "static/js/2.b37227a0.chunk.js": "/static/js/2.b37227a0.chunk.js",
+    "static/js/2.b37227a0.chunk.js.map": "/static/js/2.b37227a0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d4a0a2ca.chunk.css.map": "/static/css/2.d4a0a2ca.chunk.css.map",
+    "static/js/2.b37227a0.chunk.js.LICENSE.txt": "/static/js/2.b37227a0.chunk.js.LICENSE.txt",
+    "static/media/activate.e3552724.png": "/static/media/activate.e3552724.png",
+    "static/media/alipay_payment_qrcode_anonymized.48c12fe9.png": "/static/media/alipay_payment_qrcode_anonymized.48c12fe9.png",
+    "static/media/index.css": "/static/media/montserrat-vietnamese-400-normal.6325549b.woff2",
+    "static/media/done.6e54f346.png": "/static/media/done.6e54f346.png",
+    "static/media/select.e5f2ee50.png": "/static/media/select.e5f2ee50.png",
+    "static/media/wechat_payment_qrcode_anonymized.98158d20.png": "/static/media/wechat_payment_qrcode_anonymized.98158d20.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.681110f4.js",
-    "static/css/2.b28340f1.chunk.css",
+    "static/js/runtime-main.98bb84ba.js",
+    "static/css/2.d4a0a2ca.chunk.css",
     "static/js/2.b37227a0.chunk.js",
     "static/js/main.b155eedd.chunk.js"
   ]
