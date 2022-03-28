@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.js": "/static/js/main.b155eedd.chunk.js",
-    "main.js.map": "/static/js/main.b155eedd.chunk.js.map",
+    "main.js": "/static/js/main.d602e088.chunk.js",
+    "main.js.map": "/static/js/main.d602e088.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.98bb84ba.js",
     "runtime-main.js.map": "/static/js/runtime-main.98bb84ba.js.map",
     "static/css/2.d4a0a2ca.chunk.css": "/static/css/2.d4a0a2ca.chunk.css",
-    "static/js/2.b37227a0.chunk.js": "/static/js/2.b37227a0.chunk.js",
-    "static/js/2.b37227a0.chunk.js.map": "/static/js/2.b37227a0.chunk.js.map",
+    "static/js/2.525fc613.chunk.js": "/static/js/2.525fc613.chunk.js",
+    "static/js/2.525fc613.chunk.js.map": "/static/js/2.525fc613.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d4a0a2ca.chunk.css.map": "/static/css/2.d4a0a2ca.chunk.css.map",
-    "static/js/2.b37227a0.chunk.js.LICENSE.txt": "/static/js/2.b37227a0.chunk.js.LICENSE.txt",
+    "static/js/2.525fc613.chunk.js.LICENSE.txt": "/static/js/2.525fc613.chunk.js.LICENSE.txt",
     "static/media/activate.e3552724.png": "/static/media/activate.e3552724.png",
     "static/media/alipay_payment_qrcode_anonymized.48c12fe9.png": "/static/media/alipay_payment_qrcode_anonymized.48c12fe9.png",
     "static/media/index.css": "/static/media/montserrat-vietnamese-400-normal.6325549b.woff2",
     "static/media/done.6e54f346.png": "/static/media/done.6e54f346.png",
+    "static/media/file.dc555449.png": "/static/media/file.dc555449.png",
+    "static/media/instructions.a8d9c0d7.png": "/static/media/instructions.a8d9c0d7.png",
     "static/media/select.e5f2ee50.png": "/static/media/select.e5f2ee50.png",
     "static/media/wechat_payment_qrcode_anonymized.98158d20.png": "/static/media/wechat_payment_qrcode_anonymized.98158d20.png"
   },
   "entrypoints": [
     "static/js/runtime-main.98bb84ba.js",
     "static/css/2.d4a0a2ca.chunk.css",
-    "static/js/2.b37227a0.chunk.js",
-    "static/js/main.b155eedd.chunk.js"
+    "static/js/2.525fc613.chunk.js",
+    "static/js/main.d602e088.chunk.js"
   ]
 }

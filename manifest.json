@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "undertheradar",
+  "name": "Under The Radar",
   "icons": [
     {
       "src": "radar_black_24dp.svg",
